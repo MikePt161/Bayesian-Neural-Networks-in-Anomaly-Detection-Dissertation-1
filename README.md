@@ -16,13 +16,13 @@ Pandas, Matplotlib, Scikit Learn, Tensorflow  & Tensorflow Probability (Keras)
 ## Files within repository
 
 
-Report-Anomaly-Detection-with-Bayesian-Neural-Networks.pdf: Finalised submitted report. Received grade: Upper 2.1 
+**Report-Anomaly-Detection-with-Bayesian-Neural-Networks.pdf**: \ Finalised submitted report. Received grade: Upper 2.1 
 
-Poster.pdf: Finalised Poster that was used in my presentation. Received Grade: 1st
+**Poster.pdf**: \ Finalised Poster that was used in my presentation. Received Grade: 1st
 
-anomaly-detection-with-bayesian-neural-networks.ipynb: Jupyter notebook containing the Python code used in my assignment. Will be modified with additional documentation over time.
+**anomaly-detection-with-bayesian-neural-networks.ipynb**: \ Jupyter notebook containing the Python code used in my assignment. Will be modified with additional documentation over time.
 
-To Be Added: HTML version (with printed outputs) of the above notebook 
+**To Be Added**: \ HTML version (with printed outputs) of the above notebook 
 
 
 
@@ -31,4 +31,4 @@ To Be Added: HTML version (with printed outputs) of the above notebook
 
 ## Future Implementations
 
-The techniques used will be explored on a different project (outside the scopes of my MSc) for image classification and time series prediction examples.
+In this project, exploration of the methods used is demonstrated on tabular data. The techniques used will be explored on a different project (outside the scopes of my MSc) for image classification and time series prediction datasets.
