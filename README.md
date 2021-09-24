@@ -1,4 +1,4 @@
-# Bayesian-Neural-Networks-in-Anomaly-Detection-Dissertation-1
+# Anomaly Detection with Bayesian Neural Networks
 
 First final dissertation in the scopes of my MSc Statistics with Data Science.
 The scopes of this project was to establish the limitations of frequentist neural networks, in capturing different types of generated uncertainty.
