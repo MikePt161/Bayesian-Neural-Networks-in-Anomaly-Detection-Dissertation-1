@@ -1,7 +1,7 @@
 # Anomaly Detection with Bayesian Neural Networks
 
-First final dissertation in the scopes of my MSc Statistics with Data Science.
-The scopes of this project was to establish the limitations of frequentist neural networks, in capturing different types of generated uncertainty.
+First final dissertation in the scopes of my MSc Statistics with Data Science (University of Edinburgh). \\
+The scopes of this project was to establish the limitations of frequentist neural networks, in capturing different types of generated uncertainty.\\
 Ways to visualise and capture aleatoric and epistemic uncertainty are explored in this report (pdf file).
 
 The writing was asked to be in the style of a non-technical summary (understood by people of many backgrounds) of a maximum 5000 words.
